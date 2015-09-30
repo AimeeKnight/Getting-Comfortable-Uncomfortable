@@ -1,3 +1,7 @@
 .emphasis {
     color: #268bd2;
 }
+
+blockquote {
+    box-shadow: none !important;
+}
