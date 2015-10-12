@@ -1,10 +1,11 @@
 .emphasis {
-    color: #268bd2;
+    color: #00BFFF;
     font-weight: bolder !important;
 }
 
 blockquote {
-    box-shadow: none !important;
+    color: #00BFFF;
+    background: none !important;
 }
 
 .sp {
